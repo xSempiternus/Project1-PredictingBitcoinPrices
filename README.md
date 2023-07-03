@@ -19,18 +19,19 @@ Instalación
 
 Uso
 
-    Asegúrate de tener los datos históricos del precio del Bitcoin en un archivo CSV. Puedes encontrar estos datos en diversas fuentes en línea o utilizar APIs para obtenerlos en tiempo real.
-    Coloca el archivo CSV con los datos en la carpeta "data" del proyecto.
-    Ejecuta el notebook "data_preprocessing.ipynb" ubicado en la carpeta "notebooks". Este notebook se encargará de realizar el preprocesamiento de los datos, como la limpieza, transformación y normalización.
-    Una vez finalizado el preprocesamiento, ejecuta el notebook "modeling.ipynb" ubicado en la carpeta "notebooks". Este notebook contiene la implementación del modelo de regresión y la evaluación del rendimiento del modelo.
-    Sigue las instrucciones en los notebooks para comprender y ajustar los parámetros del modelo según sea necesario.
+    Asegúrate de tener los datos históricos del precio del Bitcoin en un archivo CSV. Puedes obtener estos datos de la siguiente manera:
+        Ve a "https://finance.yahoo.com/quote/BTC-USD/history/".
+        Descarga los datos históricos en formato CSV.
+        Coloca el archivo CSV con los datos en la carpeta "data" del proyecto o en la carpeta donde estes ejecutando el codigo.
 
+    Ejecuta el notebook "data_preprocessing.ipynb" ubicado en la carpeta "notebooks". Este notebook se encargará de realizar el preprocesamiento de los datos, como la limpieza, transformación y normalización.
+
+    Una vez finalizado el preprocesamiento, ejecuta el notebook "modeling.ipynb" ubicado en la carpeta "notebooks". Este notebook contiene la implementación del modelo de regresión y la evaluación del rendimiento del modelo.
+
+    Sigue las instrucciones en los notebooks para comprender y ajustar los parámetros del modelo según sea necesario
 Contribución
 
 Las contribuciones a este proyecto son bienvenidas. Si encuentras algún problema o tienes alguna sugerencia, por favor, crea un "issue" en este repositorio o envía una solicitud de extracción con tus mejoras.
-Licencia
-
-Este proyecto se distribuye bajo la licencia MIT.
 Contacto
 
 Si tienes alguna pregunta o consulta relacionada con este proyecto, puedes contactarme a través de mi dirección de correo electrónico tunombre@example.com. Estoy disponible para brindar cualquier ayuda o aclaración necesaria.
