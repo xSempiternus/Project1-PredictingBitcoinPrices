@@ -1,5 +1,6 @@
 # Project1-PredictingBitcoinPrices
-Este proyecto tiene como objetivo desarrollar un modelo predictivo utilizando técnicas de Machine Learning para estimar el precio del Bitcoin. Se implementará un modelo de regresión que permitirá predecir el precio futuro del Bitcoin en base a datos históricos.
+Este proyecto tiene como objetivo desarrollar un modelo predictivo utilizando técnicas de Machine Learning para estimar el precio del Bitcoin. Se implementará un modelo de "bagging" que permitirá predecir el precio futuro del Bitcoin en base a datos históricos del dia a dia acorde al tiempo.
+
 Requisitos
 
     Python 3.x
