@@ -71,7 +71,7 @@ En cuanto a la variable Sharpe , el modelo con max_depth=2 tiene un índice de S
 Al comparar los resultados del modelo con max_depth=2 y max_depth=3, podemos observar que el modelo con max_depth=3 tiene un MAE ligeramente más alto (1.75) en comparación con el modelo con max_depth=2 (1.72). Esto indica que, en promedio, el modelo con max_depth=3 tiene un error de aproximadamente 1.75 unidades, mientras que el modelo con max_depth=2 tiene un error de aproximadamente 1.72 unidades. Por lo tanto, en términos de la magnitud promedio de los errores, el modelo con max_depth=2 parece tener un rendimiento ligeramente mejor.
 
 En cuanto al RMSE el modelo con max_depth=3 también tiene un valor ligeramente más alto (2.40) en comparación con el modelo con max_depth=2 (2.39). Esto indica que, en promedio, el modelo con max_depth=3 tiene una diferencia de aproximadamente 2.40 unidades entre las predicciones y los valores reales, mientras que el modelo con max_depth=2 tiene una diferencia de aproximadamente 2.39 unidades. Similar al MAE, esto sugiere que el modelo con max_depth=2 tiene un rendimiento ligeramente mejor en términos de la magnitud promedio de los errores.
-A partir del análisis de estas variables es recomendable usar el modelo con max_depth=2, ya que es un modelo ligeramente mejor. Sin embargo, los resultados son bastante cercanos.
+A partir del análisis de estas variables es recomendable usar el modelo con max_depth=2, ya que es un modelo ligeramente mejor. Sin embargo, los resultados son bastante cercanos por lo que será decision de cada uno el utilizar un modelo u otro.
 
 Un análisis más detallado esta en la carpeta "reports".
 
