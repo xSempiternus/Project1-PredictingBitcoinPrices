@@ -33,6 +33,7 @@ Uso
      Descripción del Código
 
 Descripción del Código
+
         Este código implementa un modelo de bagging para predecir el precio del Bitcoin. A continuación se describe el flujo de trabajo del código:
 
         Importación de bibliotecas: Se importan las bibliotecas necesarias, como NumPy, Pandas, y scikit-learn (sklearn), así como el módulo simulate del archivo simulator.py.
@@ -58,6 +59,7 @@ Descripción del Código
     Finalmente se guarda el modelo con la extensión .pkl
 
 Análisis
+
         El análisis final esta sintetizado en la carpeta "reports".
 
 Contribución
