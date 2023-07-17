@@ -1,12 +1,12 @@
 # Project1-PredictingBitcoinPrices
 Este proyecto tiene como objetivo desarrollar un modelo predictivo utilizando técnicas de Machine Learning. En este caso específico se utilizó el Bagging para estimar el precio del Bitcoin a partir de datos históricos en funcion del precio y los días.
 
-Requisitos (revisar el archivo requirements.txt)
+**Requisitos (revisar el archivo requirements.txt)**
 
 Python 3.x
 Bibliotecas de Machine Learning, como scikit-learn, numpy y pandas.
 
-Instalación
+**Instalación**
 
 Clona o descarga este repositorio en tu máquina local.
 
@@ -18,7 +18,7 @@ Ejecuta el siguiente comando para instalar las dependencias:
 
 pip install -r requirements.txt
 
-Uso
+**Uso**
 
 Asegúrate de tener los datos históricos del precio del Bitcoin en un archivo CSV. Puedes obtener estos datos de la siguiente manera:
 Ve a "https://finance.yahoo.com/quote/BTC-USD/history/".
@@ -33,7 +33,7 @@ Puedes revisar el notebook "exploratory_analisis" para visualizar una profundiza
 Una vez finalizado el preprocesamiento, ejecuta el notebook "Bagging_modeling.ipynb" ubicado en la carpeta "notebooks". Este notebook contiene la implementación del modelo de regresión y la evaluación del rendimiento del modelo.
 
 
-Descripción del Código
+**Descripción del Código**
 
 Este código implementa un modelo de bagging para predecir el precio del Bitcoin. A continuación se describe el flujo de trabajo del código:
 
@@ -60,7 +60,7 @@ Gráfico final: Se llama a la función simulate() del módulo simulator para gen
 Finalmente se guarda el modelo con la extensión .pkl
 
 
-Análisis y conclusiones
+**Análisis y conclusiones**
 
 
 Notamos que el precio irá variando en funcion del tiempo y va a subir a su punto máximo en el rango entre 100 y 150. A partir de estos resultados se genera la variación de ganancias(gráfico profit). Por lo que el periodo de mayor ganancia se encuentra justamente en el rango anteriormente mencionado.
@@ -77,11 +77,11 @@ A partir del análisis de estas variables es recomendable usar el modelo con max
 Un análisis más detallado esta en la carpeta "reports".
 
 
-Contribución
+**Contribución**
 
 Las contribuciones a este proyecto son bienvenidas. Si encuentras algún problema o tienes alguna sugerencia, por favor, crea un "issue" en este repositorio.
 
-Contacto
+**Contacto**
 
 Si tienes alguna pregunta o consulta relacionada con este proyecto, puedes contactarme a través de mi dirección de correo electrónico nikoantu@gmail.com.
 
