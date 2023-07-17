@@ -33,7 +33,7 @@ Uso
      Descripción del Código
 
 Descripción del Código
-Este código implementa un modelo de bagging para predecir el precio del Bitcoin. A continuación se describe el flujo de trabajo del código:
+    Este código implementa un modelo de bagging para predecir el precio del Bitcoin. A continuación se describe el flujo de trabajo del código:
 
     Importación de bibliotecas: Se importan las bibliotecas necesarias, como NumPy, Pandas, y scikit-learn (sklearn), así como el módulo simulate del archivo simulator.py.
 
@@ -58,15 +58,15 @@ Este código implementa un modelo de bagging para predecir el precio del Bitcoin
     Finalmente se guarda el modelo con la extensión .pkl
 
 Análisis
-El análisis final esta sintetizado en la carpeta "reports".
+    El análisis final esta sintetizado en la carpeta "reports".
 
 Contribución
 
-Las contribuciones a este proyecto son bienvenidas. Si encuentras algún problema o tienes alguna sugerencia, por favor, crea un "issue" en este repositorio o envía una solicitud de extracción con tus mejoras.
+    Las contribuciones a este proyecto son bienvenidas. Si encuentras algún problema o tienes alguna sugerencia, por favor, crea un "issue" en este repositorio o envía una solicitud de extracción con tus mejoras.
 
 Contacto
 
-Si tienes alguna pregunta o consulta relacionada con este proyecto, puedes contactarme a través de mi dirección de correo electrónico nikoantu@gmail.com.
+    Si tienes alguna pregunta o consulta relacionada con este proyecto, puedes contactarme a través de mi dirección de correo electrónico nikoantu@gmail.com.
 
-Espero que este README.md proporcione la información necesaria para que puedas comprender y utilizar el modelo de bagging para predecir el precio del Bitcoin.
+    Espero que este README.md proporcione la información necesaria para que puedas comprender y utilizar el modelo de bagging para predecir el precio del Bitcoin.
 
