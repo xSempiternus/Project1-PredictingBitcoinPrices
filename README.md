@@ -1,7 +1,7 @@
 # Project1-PredictingBitcoinPrices
 Este proyecto tiene como objetivo desarrollar un modelo predictivo utilizando técnicas de Machine Learning. En este caso específico se utilizó el Bagging para estimar el precio del Bitcoin a partir de datos históricos en funcion del precio y los días.
 
-**Requisitos (revisar el archivo requirements.txt)**
+# Requisitos (revisar el archivo requirements.txt)
 
 Python 3.x
 Bibliotecas de Machine Learning, como scikit-learn, numpy y pandas.
